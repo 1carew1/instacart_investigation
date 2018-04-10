@@ -1,5 +1,7 @@
-Data Mining Assignment 2
+#Data Mining Assignment 2
 
+
+## Run the project
 To run this anaconda needs to be installed 
 
 ```
@@ -8,3 +10,4 @@ jupyter-notebook
 ```
 
 
+Make sure when running through the notebook you wait for the instacart data to download
