@@ -28,6 +28,7 @@ source activate py3
 conda install jupyter
 conda install seaborn
 conda install -c conda-forge jupyter_contrib_nbextensions
+pip install mlxtend  
 # Start the notebook
 jupyter-notebook
 ```
