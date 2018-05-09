@@ -9,11 +9,16 @@ source activate py3
 jupyter-notebook
 ```
 
+## The Notebooks
+The setup notebook should be run first to download all the data, after that the EDA, ARM, Regression and Classification notebooks are independent of one another.
 
-Make sure when running through the notebook you wait for the instacart data to download
+Make sure when running through the setup notebook you wait for the instacart data to download.
 
 Setup Notebook : https://nbviewer.jupyter.org/github/1carew1/instacart_investigation/blob/master/Assignment_2_-Setup.ipynb
 EDA Notebook : https://nbviewer.jupyter.org/github/1carew1/instacart_investigation/blob/master/Assignment2_EDA.ipynb
+ARM Notebook : https://nbviewer.jupyter.org/github/1carew1/instacart_investigation/blob/master/Assignment_2_ARM.ipynb
+Regression Notebook : https://nbviewer.jupyter.org/github/1carew1/instacart_investigation/blob/master/Assignment_2_Regression.ipynb
+Classification Notebook : https://nbviewer.jupyter.org/github/1carew1/instacart_investigation/blob/master/Assignment_2_Classification.ipynb
 
 ## Install Python3 and Jupyter
 ```
